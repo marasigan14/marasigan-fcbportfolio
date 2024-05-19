@@ -1,0 +1,52 @@
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+body{
+    background-color: #2483CC;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%232483CC' width='11' height='11'/%3E%3Crect fill='%231685ce' x='10' width='11' height='11'/%3E%3Crect fill='%230087cf' y='10' width='11' height='11'/%3E%3Crect fill='%23008ad0' x='20' width='11' height='11'/%3E%3Crect fill='%23008cd1' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23008ed2' y='20' width='11' height='11'/%3E%3Crect fill='%230090d3' x='30' width='11' height='11'/%3E%3Crect fill='%230092d4' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%230094d5' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%230096d5' y='30' width='11' height='11'/%3E%3Crect fill='%230098d5' x='40' width='11' height='11'/%3E%3Crect fill='%23009bd6' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%23009dd6' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%23009fd6' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%2300a0d6' y='40' width='11' height='11'/%3E%3Crect fill='%2300a2d5' x='50' width='11' height='11'/%3E%3Crect fill='%2300a4d5' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%2300a6d4' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%2300a8d4' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%2300aad3' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%2300acd2' y='50' width='11' height='11'/%3E%3Crect fill='%2300aed1' x='60' width='11' height='11'/%3E%3Crect fill='%2300afd0' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%2300b1cf' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%2300b3ce' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%2300b5cc' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%2300b6cb' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%2300b8c9' x='70' width='11' height='11'/%3E%3Crect fill='%2300bac8' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%2300bbc6' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%2300bdc4' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%2300bec2' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%2300c0c0' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%2300c2be' x='80' width='11' height='11'/%3E%3Crect fill='%2300c3bc' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%2300c5ba' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%2300c6b8' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%2300c7b6' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%2300c9b4' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%2300cab1' x='90' width='11' height='11'/%3E%3Crect fill='%2300ccaf' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%2300cdad' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%230eceaa' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%2324d0a8' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%2331d1a5' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%233cd2a3' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%2346d3a1' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%234ed49e' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%2356d69c' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%235ed79a' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%2365d897' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%236cd995' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%2373da93' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%2379db91' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%237fdc8f' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%2386dd8d' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%238cde8b' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%2392de89' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%2398df87' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%239EE085' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+h1, p{
+    font-family: "Montserrat", sans-serif;
+}
+
+p{
+    font-size: 15px;
+}
+
+#profile{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 20px !important;
+}
+
+
+#landing{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    height: 80vh;
+}
+
+footer{
+    background-color: black;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 80px;
+}
+
+.fa-facebook, .fa-instagram, .fa-youtube,.fa-linkedin, .fa-github{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin: 0 20px 0 20px;
+}
